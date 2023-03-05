@@ -17,6 +17,9 @@ lerna-debug.log*
 # Env files
 .env
 
+# Folders
+static
+
 # Tests
 /coverage
 /.nyc_output
